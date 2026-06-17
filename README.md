@@ -23,7 +23,7 @@
 
 > 🎓 CS Graduate from **FAST-NUCES** (2021–2025) · 🇵🇰 Based in Lahore, Pakistan
 > 💡 Passionate about **Agentic AI**, **LLMs**, **multi-agent systems**, and **scalable backend systems**
-> 🔭 Currently an **AI Engineer & POD Lead** at Analytiverse — building multi-agent SWE benchmarks, RLHF reasoning traces, and LLM-as-judge evaluation frameworks for frontier LLM labs
+> 🔭 Currently an **AI Engineer** at Analytiverse — building multi-agent SWE benchmarks, RLHF reasoning traces, and LLM-as-judge evaluation frameworks for frontier LLM labs
 > 🌱 Levelling up on the production AI stack: **FastAPI · pgvector · Langfuse · Docker**
 > 📬 Reach me at **rayyanmoqeem@gmail.com** · 📞 +92 336 2003366
 
